@@ -4,4 +4,4 @@ My first Ruby project can make the task of manually calculating the weight and b
 
 
 
-TODO: Validate inputted data, allow the use of non integers,    don't assume the first input is a blank, make the code look nice with fstrings and such, and find out why all the 'for some reasons' are the way they are
+TODO: Validate inputed data, allow the use of non integers,    don't assume the first input is a blank, make the code look nice with fstrings and such, and find out why all the 'for some reasons' are the way they are
